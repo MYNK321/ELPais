@@ -1,0 +1,30 @@
+userName: mayankchaudhari_RsDIgh
+accessKey: JbZBhsxxgtWPbYpb4Bzq
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: 120.0
+  - os: Windows
+    osVersion: 10
+    browserName: Edge
+    browserVersion: latest
+  - deviceName: iPhone 15
+    osVersion: 17
+    browserName: chromium
+    deviceOrientation: portrait
+  - deviceName: Samsung Galaxy S23
+    osVersion: 13.0
+    browserName: chrome
+    deviceOrientation: portrait
+  - deviceName: iPad Pro 11 2022
+    osVersion: 16
+    browserName: safari
+    deviceOrientation: portrait
+browserstackLocal: false
+buildName: ELPais Automated2
+buildIdentifier: ${BUILD_NUMBER}
+projectName: ELPais2
+debug: true
+networkLogs: true
+consoleLogs: info

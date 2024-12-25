@@ -1,0 +1,1759 @@
+2024-12-25 22:18:43.3715|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:18:46.0494|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:18:46.0494|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:18:46.3375|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:18:46.5387|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:18:46.5387|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:18:46.5406|INFO|browserstack_sdk.Program|SetupObservability: Observability setup completed.
+2024-12-25 22:18:46.5406|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:18:59.1556|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 36936
+2024-12-25 22:18:59.1863|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:19:02.0513|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:19:02.0513|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:19:02.5161|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:19:02.7084|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:19:02.7084|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:19:02.7084|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:19:02.7084|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 22:19:06.8706|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: b6c1zzozusu5rqlaspihylbvmexshnnnao5kdqqk
+2024-12-25 22:19:35.0501|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: Adapter process exited, exiting cli process
+2024-12-25 22:19:35.1987|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+
+2024-12-25 22:19:36.3031|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/b6c1zzozusu5rqlaspihylbvmexshnnnao5kdqqk to view build report
+2024-12-25 22:19:39.8889|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:19:42.5467|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:19:42.5552|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:19:42.8463|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:19:42.9812|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:19:42.9812|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:19:42.9812|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:19:42.9947|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:19:49.7702|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 41744
+2024-12-25 22:19:49.9097|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:19:53.6557|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:19:53.6557|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:19:54.0756|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:19:54.2331|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:19:54.2331|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:19:54.2331|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:19:54.2331|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 22:19:58.5731|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: md9akeizjbkhwjcn8vaye67gs7jvqdxc0ida3bbi
+2024-12-25 22:20:45.0590|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [41 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 41 s - ELPais.dll (net8.0)
+
+2024-12-25 22:21:01.6123|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 57 s - ELPais.dll (net8.0)
+
+2024-12-25 22:24:01.5034|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [3 m 57 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverException : The 'value > error' property was not found in the response:
+{"value":{"message":"Session not started or terminated"},"sessionId":"","status":13}
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 3 m 57 s - ELPais.dll (net8.0)
+
+2024-12-25 22:24:02.3964|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/md9akeizjbkhwjcn8vaye67gs7jvqdxc0ida3bbi to view build report
+2024-12-25 22:24:03.3381|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/b61eebfec5b6625a5b852ef53e5be928790aa36a
+2024-12-25 22:37:22.3915|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 11404
+2024-12-25 22:37:22.4218|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:37:25.6107|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:37:25.6107|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:37:25.9994|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:37:26.1520|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:37:26.1520|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:37:26.1520|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:37:26.1520|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 22:37:29.7940|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: hgl0lin8lf5m65uctazpg8lgldjb1ktkxiqhltsv
+2024-12-25 22:38:05.0158|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 27 s - ELPais.dll (net8.0)
+
+2024-12-25 22:38:08.0513|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [30 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-25 22:38:14.0845|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [36 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-25 22:38:16.7402|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [39 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 39 s - ELPais.dll (net8.0)
+
+2024-12-25 22:38:22.1572|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 45 s - ELPais.dll (net8.0)
+
+2024-12-25 22:38:22.9706|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/hgl0lin8lf5m65uctazpg8lgldjb1ktkxiqhltsv to view build report
+2024-12-25 22:38:23.3741|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/5f7c6dabf38de72664ed18dfc59a61805e07bd2d
+2024-12-25 22:41:53.3555|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 10208
+2024-12-25 22:41:53.3854|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:41:56.2644|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:41:56.2644|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:41:56.6181|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:41:56.7584|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:41:56.7584|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:41:56.7584|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:41:56.7584|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 22:42:00.2929|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: 62nt6zqnw7pe18yqdh68zylzmqhppztaa1jryhxs
+2024-12-25 22:42:36.2911|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [28 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-25 22:42:41.8904|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 34 s - ELPais.dll (net8.0)
+
+2024-12-25 22:42:44.6248|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [36 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-25 22:42:45.0523|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [36 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-25 22:42:53.6565|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 45 s - ELPais.dll (net8.0)
+
+2024-12-25 22:42:54.4700|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/62nt6zqnw7pe18yqdh68zylzmqhppztaa1jryhxs to view build report
+2024-12-25 22:42:54.8616|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/9f2600a898d63c951c3789691c7537cbb71f46b6
+2024-12-25 22:55:28.8632|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:55:32.1878|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:55:32.1878|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:55:32.4087|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:55:32.5726|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:55:32.5726|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:55:32.5726|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:55:32.5726|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:55:42.4075|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 29892
+2024-12-25 22:55:42.4382|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 22:55:45.0062|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 22:55:45.0062|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 22:55:45.2677|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 22:55:45.3830|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 22:55:45.3830|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 22:55:45.3830|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 22:55:45.3843|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 22:55:49.3137|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: cvsjkisnpqlgdm6ne4jnahpglzbwfgbdqby4pjnc
+2024-12-25 22:56:24.9815|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [29 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 29 s - ELPais.dll (net8.0)
+
+2024-12-25 22:56:32.6913|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [36 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-25 22:56:37.3973|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [41 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 41 s - ELPais.dll (net8.0)
+
+2024-12-25 22:56:51.3072|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 55 s - ELPais.dll (net8.0)
+
+2024-12-25 22:56:51.8219|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 56 s - ELPais.dll (net8.0)
+
+2024-12-25 22:56:52.6049|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/cvsjkisnpqlgdm6ne4jnahpglzbwfgbdqby4pjnc to view build report
+2024-12-25 22:56:53.3768|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6185094952b7d3c28d18e3b031c0fec297dc0c79
+2024-12-25 23:01:46.9651|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 34484
+2024-12-25 23:01:47.0027|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:01:49.8386|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:01:49.8386|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:01:50.1907|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:01:50.3704|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:01:50.3704|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:01:50.3704|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:01:50.3704|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:01:53.8265|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: qxbwzmsqynhpumwjgkjuipzmoixck1mi0i2egkzr
+2024-12-25 23:02:34.9471|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 33 s - ELPais.dll (net8.0)
+
+2024-12-25 23:02:36.9240|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 35 s - ELPais.dll (net8.0)
+
+2024-12-25 23:02:38.7731|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [37 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 37 s - ELPais.dll (net8.0)
+
+2024-12-25 23:02:41.4678|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [38 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 38 s - ELPais.dll (net8.0)
+
+2024-12-25 23:02:41.5525|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [39 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 39 s - ELPais.dll (net8.0)
+
+2024-12-25 23:02:42.3758|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/qxbwzmsqynhpumwjgkjuipzmoixck1mi0i2egkzr to view build report
+2024-12-25 23:02:43.1355|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/edf6fcbe468146108cd75e2f22ad02555062dc70
+2024-12-25 23:03:53.9246|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 29196
+2024-12-25 23:03:53.9526|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:03:56.8917|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:03:56.8917|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:03:57.2017|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:03:57.3498|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:03:57.3498|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:03:57.3498|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:03:57.3521|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:04:01.4908|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: dhieotz76p49iwz86fqom67dnb0kr8cain7wcxo2
+2024-12-25 23:04:37.1297|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [28 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-25 23:04:49.4978|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [40 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 40 s - ELPais.dll (net8.0)
+
+2024-12-25 23:04:51.5374|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 42 s - ELPais.dll (net8.0)
+
+2024-12-25 23:04:51.5859|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [42 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 42 s - ELPais.dll (net8.0)
+
+2024-12-25 23:04:55.7898|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 47 s - ELPais.dll (net8.0)
+
+2024-12-25 23:04:56.6407|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/dhieotz76p49iwz86fqom67dnb0kr8cain7wcxo2 to view build report
+2024-12-25 23:04:56.9987|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/f7f53b86aea76742832eedc98bd66a918c2afd54
+2024-12-25 23:07:10.0604|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:07:14.3385|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:07:14.3385|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:07:14.6320|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:07:14.7634|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:07:14.7634|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:07:14.7634|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:07:14.7796|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:07:26.1745|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 43064
+2024-12-25 23:07:26.2107|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:07:29.7760|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:07:29.7760|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:07:30.1850|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:07:30.3646|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:07:30.3646|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:07:30.3646|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:07:30.3675|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:07:34.0923|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: 6xzlxais87wbiwlcqvaqgaggxyjfvnub5c4bufwv
+2024-12-25 23:08:03.7581|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_0\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 23 s - ELPais.dll (net8.0)
+
+2024-12-25 23:08:09.8089|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [29 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 29 s - ELPais.dll (net8.0)
+
+2024-12-25 23:08:11.2041|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [30 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-25 23:08:18.6439|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [38 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 38 s - ELPais.dll (net8.0)
+
+2024-12-25 23:08:21.6314|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 40 s - ELPais.dll (net8.0)
+
+2024-12-25 23:08:22.4540|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/6xzlxais87wbiwlcqvaqgaggxyjfvnub5c4bufwv to view build report
+2024-12-25 23:08:23.2087|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2c00a1cd1d5af20438e7ac224204962ebf3ccb72
+2024-12-25 23:13:27.7627|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:13:31.6419|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:13:31.6419|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:13:31.9092|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:13:32.0852|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:13:32.0852|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:13:32.0852|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:13:32.1220|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:13:40.3683|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 28064
+2024-12-25 23:13:40.4175|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:13:43.5109|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:13:43.5109|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:13:43.8530|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:13:43.9957|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:13:43.9957|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:13:43.9957|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:13:43.9957|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:13:48.0571|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: m12mu65o7ukndvcvvehayb5asespdxyai9etyv6p
+2024-12-25 23:14:23.4095|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-25 23:14:24.3209|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [29 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 29 s - ELPais.dll (net8.0)
+
+2024-12-25 23:14:24.6869|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [29 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 29 s - ELPais.dll (net8.0)
+
+2024-12-25 23:14:33.1495|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 38 s - ELPais.dll (net8.0)
+
+2024-12-25 23:14:41.2765|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [46 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 46 s - ELPais.dll (net8.0)
+
+2024-12-25 23:14:42.0938|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/m12mu65o7ukndvcvvehayb5asespdxyai9etyv6p to view build report
+2024-12-25 23:14:42.7814|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/cbdd54b7746dcd51496516e35c1de3b029b36ee9
+2024-12-25 23:24:17.8925|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:24:20.6588|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:24:20.6588|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:24:20.9339|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:24:21.1060|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:24:21.1060|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:24:21.1060|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:24:21.1222|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:24:31.9168|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 16468
+2024-12-25 23:24:31.9683|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:24:34.9427|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:24:34.9461|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:24:35.2340|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:24:35.3533|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:24:35.3533|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:24:35.3533|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:24:35.3533|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:24:39.5471|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: zojmncashrgshmoze3qhh8n0xvvlz0chzx1jvjaj
+2024-12-25 23:25:17.3910|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-25 23:25:17.5177|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [30 s]
+  Error Message:
+   OpenQA.Selenium.ElementNotInteractableException : element not interactable
+  (Session info: chrome=128.0.6613.146)
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-25 23:25:18.1302|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [32 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 32 s - ELPais.dll (net8.0)
+
+2024-12-25 23:25:27.1024|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [40 s]
+  Error Message:
+   OpenQA.Selenium.ElementNotVisibleException : Element is not currently visible and may not be manipulated
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 40 s - ELPais.dll (net8.0)
+
+2024-12-25 23:25:27.8980|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 41 s - ELPais.dll (net8.0)
+
+2024-12-25 23:25:28.7852|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/zojmncashrgshmoze3qhh8n0xvvlz0chzx1jvjaj to view build report
+2024-12-25 23:25:29.1618|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/45d8871949c9d31d34d8b279452421455dc4b43d
+2024-12-25 23:42:03.5580|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:42:07.7625|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:42:07.7625|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:42:08.0445|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:42:08.2314|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:42:08.2314|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:42:08.2314|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:42:08.2461|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:42:21.8878|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 3832
+2024-12-25 23:42:21.9369|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:42:24.6749|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:42:24.6749|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:42:24.9519|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:42:25.0640|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:42:25.0640|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:42:25.0640|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:42:25.0640|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:42:29.2952|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: g6xqgt4djubf6xzoqll8ki2v8kgujpafhj4pctk9
+2024-12-25 23:43:02.4757|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [27 s]
+  Error Message:
+   OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <a href="https://elpais.com/opinion/" title="..." class="cs_t_l _db" data-mrf-link="https://elpais.com/opinion/" cmp-ltrk="portada_menu" cmp-ltrk-idx="0" mrfobservableid="b73146d3-662f-4732-b17e-0822d9659e49">Opinión</a> is not clickable at point (452, 455). Other element would receive the click: <div class="me_bg me_bg-o">...</div>
+  (Session info: chrome=120.0.6099.63)
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ OpenQA.Selenium.ElementNotInteractableException: element not interactable
+   (Session info: chrome=120.0.6099.63)
+    at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+    at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Click_Patch1(WebElement this)
+    at ELPais.Tests.Tests.Test1_Patch2(Tests this)
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 27 s - ELPais.dll (net8.0)
+
+2024-12-25 23:43:05.4369|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [30 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-25 23:43:14.5205|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [39 s]
+  Error Message:
+   OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <a href="https://elpais.com/opinion/" title="..." class="cs_t_l _db" data-mrf-link="https://elpais.com/opinion/" cmp-ltrk="portada_menu" cmp-ltrk-idx="0" mrfobservableid="d49406b7-8731-4d31-9957-49b35a4862ce">Opinión</a> is not clickable at point (448, 455). Other element would receive the click: <div class="me_bg me_bg-o">...</div>
+  (Session info: MicrosoftEdge=131.0.2903.51)
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ OpenQA.Selenium.ElementNotInteractableException: element not interactable
+   (Session info: MicrosoftEdge=131.0.2903.51)
+    at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+    at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Click_Patch1(WebElement this)
+    at ELPais.Tests.Tests.Test1_Patch2(Tests this)
+
+
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 39 s - ELPais.dll (net8.0)
+
+2024-12-25 23:43:17.4417|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 41 s - ELPais.dll (net8.0)
+
+2024-12-25 23:43:19.1644|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [43 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+    at ELPais.Tests.Tests.Test1_Patch2(Tests this)
+ OpenQA.Selenium.ElementNotVisibleException: Element is not currently visible and may not be manipulated
+    at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+    at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+    at OpenQA.Selenium.WebElement.Click_Patch1(WebElement this)
+    at ELPais.Tests.Tests.Test1_Patch2(Tests this)
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 43 s - ELPais.dll (net8.0)
+
+2024-12-25 23:43:19.9689|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/g6xqgt4djubf6xzoqll8ki2v8kgujpafhj4pctk9 to view build report
+2024-12-25 23:43:20.3414|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0a843d6afb9d623ba580ea2f6ed4ccafb66ca766
+2024-12-25 23:52:00.5745|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:52:03.8291|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:52:03.8291|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:52:04.2114|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:52:04.3846|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:52:04.3846|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:52:04.3846|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:52:04.3999|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:52:12.7079|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 38260
+2024-12-25 23:52:12.7397|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:52:15.6905|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:52:15.6905|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:52:16.0469|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:52:16.1881|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:52:16.1881|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:52:16.1881|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:52:16.1881|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:52:20.0602|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: 8rjt6qo19keq6iyceafzgbliib2twlmcqeknqcgw
+2024-12-25 23:52:59.6896|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [32 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Website Title: EL PAÍS: el periódico global
+ 
+ Article 1 (Spanish): El PSOE y el PP celebran la defensa del consenso de Felipe VI y evitan darse por aludidos
+ Article 1 (Spanish): Sumar califica el discurso de “decepcionante y derechizado”, y Junts se limita a tildar de “ilusos enterradores” a quienes dan por terminado el ‘procés’
+ Translated Article Header 1 (English): The PSOE and the PP celebrate the defence of Felipe VI's consensus and avoid feeling alluded to
+ Translated Article Content 1 (English): Sumar describes the speech as “disappointing and right-wing”, and Junts limits itself to calling those who consider the ‘procés’ to be “deluded gravediggers”
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 32 s - ELPais.dll (net8.0)
+
+2024-12-25 23:53:07.9718|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [40 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+    at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+    at ELPais.Tests.Tests.Test1_Patch2(Tests this)
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 40 s - ELPais.dll (net8.0)
+
+2024-12-25 23:53:09.5161|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [43 s]
+  Error Message:
+   OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <a href="https://elpais.com/opinion/" title="..." class="cs_t_l _db" data-mrf-link="https://elpais.com/opinion/" cmp-ltrk="portada_menu" cmp-ltrk-idx="0" mrfobservableid="e17c7d8c-c72a-4f61-8d33-db2b501d4a97">Opinión</a> is not clickable at point (448, 455). Other element would receive the click: <div class="me_bg me_bg-o">...</div>
+  (Session info: MicrosoftEdge=131.0.2903.51)
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 43 s - ELPais.dll (net8.0)
+
+2024-12-25 23:53:10.1243|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 43 s - ELPais.dll (net8.0)
+
+2024-12-25 23:53:17.5416|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [50 s]
+  Error Message:
+   OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <a href="https://elpais.com/opinion/" title="..." class="cs_t_l _db" data-mrf-link="https://elpais.com/opinion/" cmp-ltrk="portada_menu" cmp-ltrk-idx="0" mrfobservableid="a6adc4fa-bf2d-442e-aff0-f18b1435ca95">Opinión</a> is not clickable at point (452, 455). Other element would receive the click: <div class="me_bg me_bg-o">...</div>
+  (Session info: chrome=120.0.6099.63)
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 50 s - ELPais.dll (net8.0)
+
+2024-12-25 23:53:18.3772|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/8rjt6qo19keq6iyceafzgbliib2twlmcqeknqcgw to view build report
+2024-12-25 23:53:19.0832|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/4664435e56ee74c0bb39afbf72e55a1dd465f552
+2024-12-25 23:57:00.3528|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:57:03.9169|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:57:03.9169|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:57:04.2240|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:57:04.3472|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:57:04.3472|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:57:04.3472|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:57:04.3607|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:57:12.4807|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 20592
+2024-12-25 23:57:12.5188|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-25 23:57:15.5934|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-25 23:57:15.5934|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-25 23:57:15.9254|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-25 23:57:16.1161|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-25 23:57:16.1161|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-25 23:57:16.1161|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-25 23:57:16.1185|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-25 23:57:20.0135|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: 1n8kd6nmx9bci6zoppbkehm0ztcbesndfuatkdur
+2024-12-25 23:57:58.1504|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [31 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Finally
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 31 s - ELPais.dll (net8.0)
+
+2024-12-25 23:57:58.9751|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 32 s - ELPais.dll (net8.0)
+
+2024-12-25 23:57:59.9808|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 33 s - ELPais.dll (net8.0)
+
+2024-12-25 23:58:01.0595|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [34 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Finally
+ Website Title: EL PAÍS: el periódico global
+ 
+ Article 1 (Spanish): El PSOE y el PP celebran la defensa del consenso de Felipe VI y evitan darse por aludidos
+ Article 1 (Spanish): Sumar califica el discurso de “decepcionante y derechizado”, y Junts se limita a tildar de “ilusos enterradores” a quienes dan por terminado el ‘procés’
+ Translated Article Header 1 (English): The PSOE and the PP celebrate the defence of Felipe VI's consensus and avoid feeling alluded to
+ Translated Article Content 1 (English): Sumar describes the speech as “disappointing and right-wing”, and Junts limits itself to calling those who consider the ‘procés’ to be “deluded gravediggers”
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 34 s - ELPais.dll (net8.0)
+
+2024-12-25 23:58:08.8684|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 42 s - ELPais.dll (net8.0)
+
+2024-12-25 23:58:09.7101|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/1n8kd6nmx9bci6zoppbkehm0ztcbesndfuatkdur to view build report
+2024-12-25 23:58:10.1116|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/e75c0c96b59968a174bc005eb56eb6fa1265dd76
+2024-12-26 00:06:45.5403|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:06:48.6181|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:06:48.6181|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:06:48.8983|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:06:49.0188|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:06:49.0188|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:06:49.0188|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:06:49.0326|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:06:57.2757|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 42508
+2024-12-26 00:06:57.3172|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:07:00.3226|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:07:00.3226|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:07:00.7534|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:07:00.9231|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:07:00.9231|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:07:00.9231|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:07:00.9231|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-26 00:07:04.4951|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: k9uihmpr7xfflwudorkxwljgel4xfwht6bpiyacx
+2024-12-26 00:07:41.4025|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-26 00:07:45.4867|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 34 s - ELPais.dll (net8.0)
+
+2024-12-26 00:07:48.9901|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [37 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Finally
+ Website Title: EL PAÍS: el periódico global
+ 
+ Article 1 (Spanish): El PSOE y el PP celebran la defensa del consenso de Felipe VI sin darse por aludidos
+ Article 1 (Spanish): Sumar califica el discurso de “decepcionante y derechizado”, y Junts se limita a tildar de “ilusos enterradores” a quienes dan por terminado el ‘procés’
+ Translated Article Header 1 (English): The PSOE and the PP celebrate the defence of Felipe VI's consensus without taking it personally
+ Translated Article Content 1 (English): Sumar describes the speech as “disappointing and right-wing”, and Junts limits itself to calling those who consider the ‘procés’ to be “deluded gravediggers”
+ No Image available for this element
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 37 s - ELPais.dll (net8.0)
+
+2024-12-26 00:07:53.4193|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [41 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 41 s - ELPais.dll (net8.0)
+
+2024-12-26 00:07:58.8132|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 47 s - ELPais.dll (net8.0)
+
+2024-12-26 00:07:59.6571|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/k9uihmpr7xfflwudorkxwljgel4xfwht6bpiyacx to view build report
+2024-12-26 00:08:00.3973|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/fc250bdc91ddf8b55d46b955aeaeb9c7c4afba33
+2024-12-26 00:15:06.9095|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:15:10.0402|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:15:10.0402|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:15:10.3133|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:15:10.5279|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:15:10.5279|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:15:10.5279|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:15:10.5449|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:15:19.4717|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 5604
+2024-12-26 00:15:19.5200|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:15:22.3903|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:15:22.3903|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:15:22.7053|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:15:22.8600|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:15:22.8600|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:15:22.8600|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:15:22.8600|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-26 00:15:26.8890|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: lodux4yzmkkzx5jy1lse4f0rod3jvhgjkqjzqxxy
+2024-12-26 00:15:56.1596|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 21 s - ELPais.dll (net8.0)
+
+2024-12-26 00:16:02.5338|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-26 00:16:06.1664|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 31 s - ELPais.dll (net8.0)
+
+2024-12-26 00:16:10.3640|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [36 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : An element could not be located on the page using the given search parameters.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+--NoSuchElementException
+   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.By.<.ctor>b__11_0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.WebDriver.FindElement(By by)
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-26 00:16:14.8389|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 40 s - ELPais.dll (net8.0)
+
+2024-12-26 00:16:15.6248|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/lodux4yzmkkzx5jy1lse4f0rod3jvhgjkqjzqxxy to view build report
+2024-12-26 00:16:16.4212|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/8263f26b3f8408b1c87bd1d15752e52bdc4871d8
+2024-12-26 00:19:23.0237|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 6088
+2024-12-26 00:19:23.0688|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:19:25.8784|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:19:25.8784|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:19:26.2289|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:19:26.3638|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:19:26.3638|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:19:26.3638|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:19:26.3679|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-26 00:19:30.0331|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: szf8b0xe2vsqknnbltzot1f38bl3q3ldzbehvyrk
+2024-12-26 00:20:04.2628|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 26 s - ELPais.dll (net8.0)
+
+2024-12-26 00:20:05.6952|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-26 00:20:09.8866|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [32 s]
+  Error Message:
+   OpenQA.Selenium.StaleElementReferenceException : Element does not exist in cache; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+  Standard Output Messages:
+ Finally
+ Website Title: EL PAÍS: el periódico global
+ 
+
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 32 s - ELPais.dll (net8.0)
+
+2024-12-26 00:20:21.3810|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 43 s - ELPais.dll (net8.0)
+
+2024-12-26 00:20:28.4762|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 50 s - ELPais.dll (net8.0)
+
+2024-12-26 00:20:29.3351|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/szf8b0xe2vsqknnbltzot1f38bl3q3ldzbehvyrk to view build report
+2024-12-26 00:20:30.2086|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/150718a331717f4286bd51ba8662611c40ef143d
+2024-12-26 00:29:42.7486|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:29:45.8085|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:29:45.8085|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:29:46.0712|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:29:46.1913|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:29:46.1913|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:29:46.1913|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:29:46.2036|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:29:56.0570|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 23376
+2024-12-26 00:29:56.0887|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:29:58.6233|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:29:58.6233|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:29:58.9201|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:29:59.0444|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:29:59.0444|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:29:59.0444|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:29:59.0444|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-26 00:30:03.5469|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: onl6tu6i39qajd4qbireykgik0rpd6yfdpaqgons
+2024-12-26 00:30:36.8396|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-26 00:30:38.3131|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 29 s - ELPais.dll (net8.0)
+
+2024-12-26 00:30:44.0329|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 35 s - ELPais.dll (net8.0)
+
+2024-12-26 00:30:45.2667|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 36 s - ELPais.dll (net8.0)
+
+2024-12-26 00:30:51.7443|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+  Failed Test1 [42 s]
+  Error Message:
+   OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+  Stack Trace:
+     at ELPais.Tests.Tests.Test1(Tests this)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Failed!  - Failed:     1, Passed:     0, Skipped:     0, Total:     1, Duration: 42 s - ELPais.dll (net8.0)
+
+2024-12-26 00:30:52.5788|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/onl6tu6i39qajd4qbireykgik0rpd6yfdpaqgons to view build report
+2024-12-26 00:30:53.2531|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/49c1bc4d1f78baf7d3b607097125d49c250210db
+2024-12-26 00:33:51.4181|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:33:54.5579|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:33:54.5579|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:33:54.8440|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:33:54.9722|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:33:54.9722|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:33:54.9722|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:33:54.9884|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:34:02.8212|INFO|browserstack_sdk.Program|HandleAdapterProcessExit: registering process exit handler for pid: 32588
+2024-12-26 00:34:02.8682|INFO|browserstack_sdk.utils|Using dotnet: C:\Program Files\dotnet\dotnet.exe
+2024-12-26 00:34:05.5313|INFO|browserstack_sdk.Program|Detected Selenium version 4.27.0
+2024-12-26 00:34:05.5313|INFO|browserstack_sdk.Program|Running for f/w nunit 4.3.1
+2024-12-26 00:34:05.8175|INFO|browserstack_sdk.Program|Detected dotnet version 9.0.101
+2024-12-26 00:34:05.9479|INFO|browserstack_sdk.Program|Adapter Flow Triggered with testDllPath: C:\New\ELPais\bin\Debug\net8.0\ELPais.dll
+2024-12-26 00:34:05.9479|INFO|browserstack_sdk.Program|Setting Event Listener Path: C:\New\ELPais\bin\Debug\net8.0\BrowserstackEventListener.addins and BrowserstackListener Dll path :: BrowserstackListener.dll
+2024-12-26 00:34:05.9479|INFO|browserstack_sdk.Program|SetupObservability: File already exists
+2024-12-26 00:34:05.9479|INFO|browserstack_sdk.utils|Architecture Info - OS: Win32NT, OSVersion: Microsoft Windows NT 10.0.22631.0, Process Arch: X64, System Arch: X64
+2024-12-26 00:34:09.6845|INFO|TestObservability.BuildLifeCycle|[OBSERVABILITY] Build Started Successfully, build id: tvqzrc90ofyguhvgthjmor47nsr9lh0vwjsok52f
+2024-12-26 00:34:43.2743|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 27 s - ELPais.dll (net8.0)
+
+2024-12-26 00:34:43.6227|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_3\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 28 s - ELPais.dll (net8.0)
+
+2024-12-26 00:34:45.4049|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_2\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 30 s - ELPais.dll (net8.0)
+
+2024-12-26 00:34:48.8325|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_4\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 33 s - ELPais.dll (net8.0)
+
+2024-12-26 00:34:50.6319|INFO|browserstack_sdk.Program|The following arguments have been ignored : "--no-build"
+VSTest version 17.12.0 (x64)
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Failed to load extensions from file 'C:\New\ELPais\bin\Debug\net8.0\ZZStack.TestAdapter.dll'. Please use /diag for more information.
+WARNING: Overwriting results file: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+Results File: C:\Users\maychaudhari\AppData\Local\Temp\.browserstack\results_dotnet\result_1\NUnit-Browserstack.xml
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     0, Total:     1, Duration: 35 s - ELPais.dll (net8.0)
+
+2024-12-26 00:34:51.4335|INFO|TestObservability.BuildLifeCycle|Visit https://observability.browserstack.com/builds/tvqzrc90ofyguhvgthjmor47nsr9lh0vwjsok52f to view build report
+2024-12-26 00:34:52.1752|INFO|browserstack_sdk.utils|View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/1f996a08d5c9071e304bed8eb4f49e22a9aee833

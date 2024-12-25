@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{5297AA2A-8199-4B15-B668-186CCB1AF82B}|ELPais.csproj|solutionrelative:tests\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5297AA2A-8199-4B15-B668-186CCB1AF82B}|ELPais.csproj|c:\\new\\elpais\\browserstack.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5297AA2A-8199-4B15-B668-186CCB1AF82B}|ELPais.csproj|solutionrelative:browserstack.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5297AA2A-8199-4B15-B668-186CCB1AF82B}|ELPais.csproj|c:\\new\\elpais\\pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5297AA2A-8199-4B15-B668-186CCB1AF82B}|ELPais.csproj|solutionrelative:pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,28 +43,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "browserstack.yml",
+              "DocumentMoniker": "C:\\New\\ELPais\\browserstack.yml",
+              "RelativeDocumentMoniker": "browserstack.yml",
+              "ToolTip": "C:\\New\\ELPais\\browserstack.yml",
+              "RelativeToolTip": "browserstack.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-12-25T15:01:22.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "page.cs",
               "DocumentMoniker": "C:\\New\\ELPais\\Pages\\page.cs",
               "RelativeDocumentMoniker": "Pages\\page.cs",
               "ToolTip": "C:\\New\\ELPais\\Pages\\page.cs",
               "RelativeToolTip": "Pages\\page.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T11:32:08.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:32:08.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ELPais.csproj",
               "DocumentMoniker": "C:\\New\\ELPais\\ELPais.csproj",
               "RelativeDocumentMoniker": "ELPais.csproj",
               "ToolTip": "C:\\New\\ELPais\\ELPais.csproj",
               "RelativeToolTip": "ELPais.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-24T11:17:05.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:17:05.424Z"
             },
             {
               "$type": "Document",
@@ -70,7 +84,7 @@
               "RelativeDocumentMoniker": "Tests\\Test.cs",
               "ToolTip": "C:\\New\\ELPais\\Tests\\Test.cs",
               "RelativeToolTip": "Tests\\Test.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAQwHgAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T11:07:18.573Z",
               "EditorCaption": ""

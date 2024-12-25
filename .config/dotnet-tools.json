@@ -8,6 +8,13 @@
         "dotnet-csharpier"
       ],
       "rollForward": false
+    },
+    "browserstack-sdk": {
+      "version": "1.16.12",
+      "commands": [
+        "browserstack-sdk"
+      ],
+      "rollForward": false
     }
   }
 }
