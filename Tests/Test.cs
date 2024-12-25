@@ -42,7 +42,7 @@ namespace ELPais.Tests
             driver.Navigate().GoToUrl("https://elpais.com/");
 
             //Accept Cookies
-            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+            WebDriverWait wait = new WebDriverWait(driver, TimeSpan.FromSeconds(20));
             wait.Until(
                 ExpectedConditions.ElementIsVisible(By.XPath(Locator_By_Xpath_AcceptCookies))
             );
@@ -79,6 +79,8 @@ namespace ELPais.Tests
 
             var articleTitiles = driver.FindElements(By.XPath(Locator_By_Xpath_ArticlesHeaders));
             var articleContent = driver.FindElements(By.XPath(Locator_By_Xpath_Articles_Content));
+
+            //this line is new
             try
             {
                 var articleImage = driver.FindElements(By.XPath(Locator_By_Xpath_Articles_Images));
@@ -119,7 +121,10 @@ namespace ELPais.Tests
                         //Download image
                         WebClient downloader = new WebClient();
 
-                        downloader.DownloadFile(imageURL, downloadPath + "\\\\" + "Image" + i + ".jpg");
+                        downloader.DownloadFile(
+                            imageURL,
+                            downloadPath + "\\\\" + "Image" + i + ".jpg"
+                        );
                         Console.WriteLine("Image is downloaded to : " + downloadPath);
                     }
                     catch (Exception ex)
@@ -130,8 +135,7 @@ namespace ELPais.Tests
                             || ex is StaleElementReferenceException
                         )
                         {
-
-                            return;
+                            Console.WriteLine("Exception");
                         }
                         Console.WriteLine("No Image available for this element");
                     }
@@ -151,7 +155,6 @@ namespace ELPais.Tests
                     Console.WriteLine($"{word.Key}: {word.Value}");
                 }
             }
-
             catch (Exception ex)
             {
                 if (
@@ -160,24 +163,22 @@ namespace ELPais.Tests
                     || ex is StaleElementReferenceException
                 )
                 {
-
                     return;
                 }
             }
-            finally {
-                Console.WriteLine("Article not available");
-                    }
-
-
-
-            IJavaScriptExecutor jse = (IJavaScriptExecutor)driver;
-            JsonObject executorObject = new JsonObject();
-            JsonObject argumentsObject = new JsonObject();
-            argumentsObject.Add("status", "<passed/failed>");
-            argumentsObject.Add("reason", "<reason>");
-            executorObject.Add("action", "setSessionStatus");
-            executorObject.Add("arguments", argumentsObject);
-            jse.ExecuteScript("browserstack_executor: " + executorObject.ToString());
+            finally
+            {
+                Console.WriteLine();
+                IJavaScriptExecutor jse = (IJavaScriptExecutor)driver;
+                JsonObject executorObject = new JsonObject();
+                JsonObject argumentsObject = new JsonObject();
+                argumentsObject.Add("status", "<passed/failed>");
+                argumentsObject.Add("reason", "<reason>");
+                executorObject.Add("action", "setSessionStatus");
+                executorObject.Add("arguments", argumentsObject);
+                jse.ExecuteScript("browserstack_executor: " + executorObject.ToString());
+                driver.Quit();
+            }
         }
     }
 }
