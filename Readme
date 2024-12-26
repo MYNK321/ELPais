@@ -1,0 +1,4 @@
+Hello,
+The code logic works perfectly fine with the google translate V3 API, it is currently blocked as the project access
+was changed to public in GitHub.
+The keys are disabled when exposed publically (for scurity reasons) and hence there are chances of the translation API failing.
